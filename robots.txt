@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://suorgorko.github.io/sitemap
+Sitemap: https://suorgorko.github.io/app/sitemap
+Sitemap: https://suorgorko.github.io/assets/sitemap
+Sitemap: https://suorgorko.github.io/css/sitemap
+Sitemap: https://suorgorko.github.io/includes/sitemap
+Sitemap: https://suorgorko.github.io/item/sitemap
+Sitemap: https://suorgorko.github.io/src/sitemap
